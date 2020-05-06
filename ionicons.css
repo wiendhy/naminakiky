@@ -63,14 +63,3 @@ footer:before{content: "";background-image: url(https://1.bp.blogspot.com/-0ODy5
 #popular-category{background:#243342}
 #popular-category .widget{background:#243342}
 #Label4 .widget-content,#Label5 .widget-content{background:rgba(60, 165, 221, 0.05);padding:15px 15px 5px 15px}#Label4 h2,#Label5 h2{margin:0}#Label4 ul,#Label5 ul{overflow:hidden}#Label4 ul li,#Label5 ul li{list-style:none;margin:0 0 10px 0;height:34px}#Label4 ul li a,#Label5 ul li a{font-size:14px;font-weight:700;line-height:1.4;color:rgba(0,0,0,.85);display:block;padding:7px 10px;border-radius:5px;background:rgba(60, 165, 221, 0.09)}#Label4 ul li a:hover,#Label5 ul li a:hover{background:rgba(60, 165, 221, 0.15)}#Label4 ul li::before,#Label5 ul li::before{content:"#";font-size:26px;font-weight:700;text-align:center;background:rgb(60, 165, 221,.7);color:#fff;margin:0 10px 0 0;letter-spacing:-4px;float:left;height:34px;width:34px;border-radius:5px 0 0 5px}
-@media screen and (max-width:768px){.bayar {font-size: 14px;font-weight: 500;color: #fbdc03;padding: 8px 10px}
-.previwe a.demo {padding: 8px 15px;font-size: 13px;line-height: 1.6;border-radius:3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;margin-left: 0px}
-.postbyr {float: right;margin: 0 10px 0 10px;display: block}}
-.bayar span.harga{font-size:17px;position:absolute;display:block;font-weight:600;color:#fff;margin:-7px 0 0 0;padding:24px;left:0;background:linear-gradient(45deg,#115bca 0,#3eb0e6 100%);background:-webkit-linear-gradient(45deg,#115bca 0,#3eb0e6 100%);width: 60%;}
-.bayar span.harga{position: relative;padding: 8px 20px;font-size:12.7px;line-height: 1.6;border-radius: 3px;background:#f7f7f7;text-transform: uppercase;box-shadow: none;border:1px solid #22222224;width: 70%;}
-@media screen and (max-width:384px){
-.post h2 {font-size: 15px;font-weight: 500;line-height: 1.2em;margin: 5px 0 -7px;vertical-align: bottom;max-width: 100%;white-space: nowrap;text-overflow: ellipsis;padding: 20px 20px 0}
-.bayar span.harga{position: relative;padding: 8px 20px;font-size: 12.7px;line-height: 1.6;border-radius:3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;border: 1px solid #22222224;bottom: -40px;width: 60%;}
-.bayar{width: 37%}
-.previwe a.demo{padding: 8px 20px;font-size: 13px;line-height: 1.6;border-radius: 3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;float: right;margin-left: 0px}
-.bayar {float: none;padding: 0 0 0 15px;}}
