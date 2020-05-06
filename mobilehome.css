@@ -1,0 +1,13 @@
+@media screen and (max-width:768px){.bayar {font-size: 14px;font-weight: 500;color: #fbdc03;padding: 8px 10px}
+.previwe a.demo {padding: 8px 15px;font-size: 13px;line-height: 1.6;border-radius:3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;margin-left: 0px}
+.postbyr {float: right;margin: 0 10px 0 10px;display: block}}
+.bayar span.harga{font-size:17px;position:absolute;display:block;font-weight:600;color:#fff;margin:-7px 0 0 0;padding:24px;left:0;background:linear-gradient(45deg,#115bca 0,#3eb0e6 100%);background:-webkit-linear-gradient(45deg,#115bca 0,#3eb0e6 100%);width: 60%;}
+.bayar span.harga{position: relative;padding: 8px 20px;font-size:12.7px;line-height: 1.6;border-radius: 3px;background:#f7f7f7;text-transform: uppercase;box-shadow: none;border:1px solid #22222224;width: 70%;}
+@media screen and (max-width:384px){
+.post h2 {font-size: 15px;font-weight: 500;line-height: 1.2em;margin: 5px 0 -7px;vertical-align: bottom;max-width: 100%;white-space: nowrap;text-overflow: ellipsis;padding: 20px 20px 0}
+.bayar span.harga{position: relative;padding: 8px 20px;font-size: 12.7px;line-height: 1.6;border-radius:3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;border: 1px solid #22222224;bottom: -40px;width: 60%;}
+.bayar{width: 37%}
+.previwe a.demo{padding: 8px 20px;font-size: 13px;line-height: 1.6;border-radius: 3px;background: #f7f7f7;text-transform: uppercase;box-shadow: none;float: right;margin-left: 0px}
+.bayar {float: none;padding: 0 0 0 15px;}}
+@media screen and (max-width:384px){.img-home{margin-bottom: -20px}
+.post h2{padding:0px 20px 0}}
